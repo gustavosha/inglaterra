@@ -1,0 +1,391 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: grey;
+}
+.titulo{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    color: red;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+    
+    
+   
+}
+.sumario1{
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align:center;
+    display: inline-block;
+    border: 5px solid red;
+    border-radius: 50px;
+    align-items: center;
+    padding: 5px;
+
+}
+.sumario2{
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align:center;
+    display: inline-block;
+    border: 5px solid red;
+    border-radius: 50px;
+    align-items: center;
+    padding: 5px;
+
+}
+.sumario3{
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align:center;
+    display: inline-block;
+    border: 5px solid red;
+    border-radius: 50px;
+    align-items: center;
+    padding: 5px;
+
+}
+.sumario4{
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align:center;
+    display: inline-block;
+    border: 5px solid red;
+    border-radius: 50px;
+    align-items: center;
+    padding: 5px;
+}
+.sumario5{
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align:center;
+    display: inline-block;
+    border: 5px solid red;
+    border-radius: 50px;
+    align-items: center;
+    padding: 5px;
+}
+.sumario6{
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align:center;
+    display: inline-block;
+    border: 5px solid red;
+    border-radius: 50px;
+    align-items: center;
+    padding: 5px;
+}
+.sumario7{
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align:center;
+    display: inline-block;
+    border: 5px solid red;
+    border-radius: 50px;
+    align-items: center;
+    padding: 5px;
+}
+.titulodosumario{
+    margin-top: 10px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    border-radius: 50px;
+    border: 5px solid red;
+    padding:10px;
+    margin-top:0%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.todosumario{
+    text-align: center;
+}
+.lugar{
+background-color: blue;
+display: inline-block;
+border: 5px solid red ;
+color: white;
+font-size: 30px;
+border-top-right-radius:50px ;
+border-bottom-right-radius:50px;
+margin-left: 5px;
+padding-right: 5px;
+font-weight: bold;
+}
+.pessoas{
+background-color: blue;
+display: inline-block;
+border: 5px solid red ;
+color: white;
+font-size: 30px;
+border-top-right-radius:50px ;
+border-bottom-right-radius:50px;
+margin-left: 5px;
+padding-right: 5px;
+font-weight: bold;
+
+}
+.belezasnaturais{
+background-color: blue;
+display: inline-block;
+border: 5px solid red ;
+color: white;
+font-size: 30px;
+border-top-right-radius:50px ;
+border-bottom-right-radius:50px;
+margin-left: 5px;
+padding-right: 5px;
+font-weight: bold;
+}
+.cultura{
+background-color: blue;
+display: inline-block;
+border: 5px solid red ;
+color: white;
+font-size: 30px;
+border-top-right-radius:50px ;
+border-bottom-right-radius:50px;
+margin-left: 5px;
+padding-right: 5px;
+font-weight: bold;
+
+}
+.curiosidade{
+background-color: blue;
+display: inline-block;
+border: 5px solid red ;
+color: white;
+font-size: 30px;
+border-top-right-radius:50px ;
+border-bottom-right-radius:50px;
+margin-left: 5px;
+padding-right: 5px;
+font-weight: bold;
+}
+.historia{
+margin-top: 10px;
+    background-color: blue;
+display: inline-block;
+border: 5px solid red ;
+color: white;
+font-size: 30px;
+border-top-right-radius:50px ;
+border-bottom-right-radius:50px;
+margin-left: 5px;
+padding-right: 5px;
+font-weight: bold;
+}
+.populaçao{
+    margin-top: 10px;
+    background-color: blue;
+display: inline-block;
+border: 5px solid red ;
+color: white;
+font-size: 30px;
+border-top-right-radius:50px ;
+border-bottom-right-radius:50px;
+margin-left: 5px;
+padding-right: 5px;
+font-weight: bold;
+}
+
+.supertitulo{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+    margin-right: 20%;
+}
+.bandeira img{
+    align-items: center;
+    width: 70px;
+    display: flex;
+    
+}
+.bandeira{
+    text-align: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.fundotitulo{
+    background-color: blue;
+    border-radius:50px ;
+    border: 5px solid red;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-bottom: 5px;
+}
+.rodape{
+    background-color: blue;
+    border: 5px solid red;
+}
+.textope{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.lugartexto{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.governotexto{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.governotexto img{
+    border: 5px solid red;
+    height: 250px;
+    width: 400px;
+}
+.culturatexto{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.culturatexto img{
+    height: 250px;
+    width: 400px;
+    border: 5px solid red;
+}
+.curiosidadetexto{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.curiosidadetexto img{
+    height: 250px;
+    width: 400px;
+    border: 5px solid red;
+}
+.historiatexto{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.populaçaotexto{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    padding: 10px;
+    align-items: center; 
+}
+.populaçaotexto  img{
+    height: 250px;
+    width: 400px;
+    border: 5px solid red;
+}
+.atracoes img {
+    height: 250px;
+    width: 400px;
+    border: 5px solid red;
+    align-items: center;
+    margin-left: 27px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor:pointer;display: flex;
+}
+.atracoes1{
+display: flex;
+align-items: center;
+
+}
+.atracoes2{
+display: flex;
+align-items: center;
+}
+.atracoes3{
+display: flex;
+align-items: center;
+}
+.atracoes{
+    display: flex;
+    align-items: center;
+}
+.titulofinal1{
+    margin-top: -15px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align:center;
+    display: inline-block;
+    border: 5px solid red;
+    border-radius: 50px;
+    align-items: center;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 110px;
+}
+.titulofinal2{
+    margin-top: -15px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align:center;
+    display: inline-block;
+    border: 5px solid red;
+    border-radius: 50px;
+    align-items: center;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 150px;
+}
+.titulofinal3{
+    margin-top: -15px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align:center;
+    display: inline-block;
+    border: 5px solid red;
+    border-radius: 50px;
+    align-items: center;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 170px;
+}

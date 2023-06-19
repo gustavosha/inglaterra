@@ -1,0 +1,146 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.titulo{
+    background-color: blue;
+    color: red;
+    font-weight: bold;
+    font-size: 35px;
+    text-align:center;
+    border: 5px solid red;
+    border-radius: 50px;
+    padding: 5px;
+    text-align: center;
+}
+body{
+    background-color: grey;
+}
+.location{
+    background-color: blue;
+display: inline-block;
+border: 5px solid red ;
+color: white;
+font-size: 30px;
+border-top-right-radius:50px ;
+border-bottom-right-radius:50px;
+margin-left: 5px;
+padding-right: 5px;
+font-weight: bold;
+margin-top: 5px;
+
+}
+.localizacao{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.curiosidades{
+    background-color: blue;
+    display: inline-block;
+    border: 5px solid red ;
+    color: white;
+    font-size: 30px;
+    border-top-right-radius:50px ;
+    border-bottom-right-radius:50px;
+    margin-left: 5px;
+    padding-right: 5px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.curiosidadestexto{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.curiosidadestexto img{
+    border: 5px solid red;
+    width:400px ;
+    height: 250px;
+}
+.historia{
+    background-color: blue;
+    display: inline-block;
+    border: 5px solid red ;
+    color: white;
+    font-size: 30px;
+    border-top-right-radius:50px ;
+    border-bottom-right-radius:50px;
+    margin-left: 5px;
+    padding-right: 5px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.historiatexto{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.impactocultural{
+    background-color: blue;
+    display: inline-block;
+    border: 5px solid red ;
+    color: white;
+    font-size: 30px;
+    border-top-right-radius:50px ;
+    border-bottom-right-radius:50px;
+    margin-left: 5px;
+    padding-right: 5px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.impactoculturaltexto{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.impactoculturaltexto img{
+    border: 5px solid red;
+    width:400px ;
+    height: 250px;
+}
+.visitantes{
+    background-color: blue;
+    display: inline-block;
+    border: 5px solid red ;
+    color: white;
+    font-size: 30px;
+    border-top-right-radius:50px ;
+    border-bottom-right-radius:50px;
+    margin-left: 5px;
+    padding-right: 5px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.visitantestexto{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.textope{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.rodape{
+    margin-top: 10px;
+    background-color: blue;
+    border: 5px solid red;
+}
+.visitantestexto img{
+    border: 5px solid red;
+    width:400px ;
+    height: 250px;
+}
